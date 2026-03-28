@@ -57,19 +57,17 @@ MoodAnalyzerProject/
 ```
 ## 📸 Project Screenshots
 
-*(Add your screenshots below. Take a snip of your terminal running the specific features and replace the placeholder links!)*
-
 ### 1. The Interactive Loop & Negation Detection
 > *Screenshot showing a standard positive sentence and a negated sentence.*
-![Negation Test](.\assets\negation.png)
+![Negation Test](./assets/negation.png)
 
 ### 2. Punctuation & Typography Multipliers
 > *Screenshot showing the difference in scores when using ALL CAPS and exclamation points.*
-![Multiplier Test](.\assets\puncuation.png)
+![Multiplier Test](./assets/puncuation.png)
 
 ### 3. The Persistent Mood Dashboard
 > *Screenshot showing the `dash` command, the percentage breakdown, and the system remark.*
-![Dashboard View](.\assets\dashboard.png)
+![Dashboard View](./assets/dashboard.png)
 
 ---
 
